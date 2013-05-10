@@ -1,4 +1,4 @@
-(1..20).each do |i|
+(1..100).each do |i|
 
   output = ''
   output += 'Fizz' if (i % 3 == 0)
